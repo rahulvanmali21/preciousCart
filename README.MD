@@ -1,6 +1,6 @@
 # Precious-Cart ( E-commerce Website )
 ****
-## This Web based Application is made using PHP as core backend, Bootstrap 4.3 as CSS Framwork and MySQL as a relational database
+## This Web based Application is made using PHP as core backend, Bootstrap 4.3 and MySQL as a relational database
 
 
 
