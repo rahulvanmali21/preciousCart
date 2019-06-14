@@ -19,6 +19,10 @@
 4. Now download the project files via `git clone`
 
 5. Open the project folder in your text editor  adn open `php.ini` file in xampp folder
-6.  change `upload_max_filesize = 30M` and `post_max_size`
+6.  change `upload_max_filesize = 30M` and `post_max_size = 30M` or else project image upload will fail
 
 7. make sure your development environment (PC or Laptop) is connected to the internet.  
+
+8. for Admin section got to `localhost/preciousCart/admin` 
+
+9. Username = 'admin' and password = 'admin123' 
